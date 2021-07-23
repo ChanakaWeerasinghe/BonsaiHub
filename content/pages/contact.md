@@ -4,7 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-Visit [my site](https://bool.netlify.com)
+Visit [JapanBonsai](https://www.facebook.com/japanbonsaicommunity/)
 
-Insert your contact details or a contact form here.
-
+ 

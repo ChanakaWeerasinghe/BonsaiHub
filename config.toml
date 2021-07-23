@@ -1,4 +1,4 @@
-baseurl = "http://example.org/"
+baseurl = "http://srilankasl.com/"
 languageCode = "en-us"
 title = "JapanBonsai"
 theme = "hugo-cards"
@@ -16,11 +16,13 @@ paginate = 6
   email = ""
 
   fbLikeBox = ""
-  fbAppId = ""
+  fbAppId = "101630761674046"
   fbPageUrl = ""
   fbPageTitle = ""
 
-  analytics = ""
+  analytics = "UA-156905363-1"
+  adsensePublisher = "ca-pub-4554843855357609"
+  googleAdsense = "ca-pub-4554843855357609"
   disqus = ""
 
   custom_css = ["css/custom.css"]
@@ -28,4 +30,3 @@ paginate = 6
   [params.copyright]
      name = "bool"
      link = "https://bool.netlify.com"
-
