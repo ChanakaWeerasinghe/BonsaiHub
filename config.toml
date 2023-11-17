@@ -1,18 +1,21 @@
-baseurl = "http://srilankasl.com/"
+baseurl = "https://srilankasl.com/"
 languageCode = "en-us"
 title = "JapanBonsai"
 theme = "hugo-cards"
 themesDir = "../.."
 paginate = 6
 
-[params]
-  builtBy = "bool"
-  defaultImage = "gopher.jpg"
 
-  facebook = ""
+[params]
+  builtBy = "JapanBonsai"
+  defaultImage = "gopher.jpg"
+  description = "Explore the beauty of bonsai culture in Japan with JapanBonsai. Discover expert tips, stunning bonsai collections, and join our community."
+
+
+  facebook = "https://www.facebook.com/japanbonsaicommunity"
   quora = ""
-  twitter = "http://twitter.com/bul_ikana"
-  github = "http://github.com/bul-ikana"
+  twitter = "https://twitter.com/chanakaweerasi2"
+  github = "https://github.com/ChanakaWeerasinghe"
   email = ""
 
   fbLikeBox = ""
@@ -25,8 +28,16 @@ paginate = 6
   googleAdsense = "ca-pub-4554843855357609"
   disqus = ""
 
+  client = "ca-pub-4554843855357609"
+  inArticleSlot = "12345"
+
   custom_css = ["css/custom.css"]
 
   [params.copyright]
-     name = "bool"
-     link = "https://bool.netlify.com"
+     name = "JapanBonsai"
+     link = "https://www.facebook.com/japanbonsaicommunity"
+
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true

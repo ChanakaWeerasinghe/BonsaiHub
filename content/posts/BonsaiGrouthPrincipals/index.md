@@ -11,6 +11,7 @@ time. It makes the assumption that the reader has already
 done some research and has a basic understanding of the
 fundamental shaping concepts used in the art of bonsai
 such as:
+ <!--adsense-->
 
 1. Triangulation and asymmetrical composition.
 2. Primary, secondary and tertiary branch identification and placement.
@@ -35,6 +36,8 @@ variety of locations and conditions. They also have the
 added advantage of being a bit “forgiving” when newcomers make mistakes.
 Since you are learning, we assume you will be making a few mistakes along the way. Its good to have plant
 material which is willing to work with you. Junipers (par
+
+ <!--adsense-->
 
 
 ### Step One: Clean Up
@@ -61,6 +64,9 @@ branches emerge around it. Next, dig gently at the base of
 the trunk and remove soil until you find the point at which
 the roots begin to flare outward. This will be the base of
 your new bonsai.
+
+ <!--adsense-->
+
 ### Step Two: Wiring & Shaping
 Once you can clearly see the trunk line and branches
 you may begin to make artistic decisions regarding the
@@ -96,6 +102,8 @@ around the trunk (more of necessary) following the path
 of the main line trunk wire until you can go out the second
 branch .
 
+ <!--adsense-->
+
 ### Step Three: Detail Pruning &
 Shaping.
 Once you have move all the branches into the approximate positions for your final design, trim back the
@@ -114,6 +122,8 @@ shape. In the future, as the tree grows and develops you
 will need to keep these foliage pads pinched back and well
 formed. They will become more dense with green growth
 and add greatly to it’s appearance of age and maturity. 
+
+ <!--adsense-->
 
 
 ### Step Four: Preparation For Potting
@@ -137,3 +147,24 @@ which containers work best for a particular tree. The juniper in this example wi
 
 
 Sourse : https://minnesotabonsaisociety.org/wp-content/uploads/2017/10/beginnerbasics_small.pdf
+
+
+1. [All You Need To Know About Bonsai 'How bonsai works'](https://srilankasl.com/posts/bonsai_care/)
+2. [How to look after my bonsai](https://srilankasl.com/posts/how_to_carering_your_bonsai/)
+3. [Amazing Bonsai Masterpieces](https://srilankasl.com/posts/masterpieses1/)
+4. [Important this to do become bonsai master](https://srilankasl.com/posts/masterpieses2/)
+5. [Amazing Bonsai Images](https://srilankasl.com/posts/bonsaipost1/)
+6. [How to make a bonsai design easily](https://srilankasl.com/posts/lerningguide1/)
+7. [BONSAI](https://srilankasl.com/posts/introduction/)
+8. [Principles of Bonsai](https://srilankasl.com/posts/principlesofbonsai/)
+9. [Bonsai Groth PRINCIPLES](https://srilankasl.com/posts/bonsaigrouthprincipals/)
+10. [Bonsai Types](https://srilankasl.com/posts/bonsaitypes/)
+11. [Bonsai Watering](https://srilankasl.com/posts/bonsaiwatering/)
+12. [Creating A Bonsai For The First Time.](https://srilankasl.com/posts/biginnerbasics/)
+13. [How to grow your own Bonsai](https://srilankasl.com/posts/bonsaigrowing/)
+14. [Trunk and Nebari Rules](https://srilankasl.com/posts/rulesofbonsai/)
+15. [Rules Of Branches](https://srilankasl.com/posts/rulesofbranches/)
+16. [Pots And Culture Rules](https://srilankasl.com/posts/potsandculturerules/)
+17. [BONSAI SOIL](https://srilankasl.com/posts/bonsaisoil/)
+
+18. [WHAT MAKES GOOD BONSAI](https://srilankasl.com/posts/whatmakesgoodbonsai/)

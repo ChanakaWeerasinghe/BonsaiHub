@@ -9,19 +9,23 @@ Buying a Bonsai tree in a shop is nice, but wouldn’t it be much better to do i
 A Bonsai starterkit usually contains a young plant (called a pre-Bonsai or
 A Bonsai starterkit usually contains a young plant (called a pre-Bonsai or a nursery stock), a Bonsai pot, wire and soil. From this young plant you can create a Bonsai tree in three steps; pruning, wiring and repotting. So, let’s have a look at the three steps to create a Bonsai tree. You can also check the Bonsai Empire channel on YouTube for movies on these steps.
 
+ <!--adsense-->
+
 ### Step 1: Pruning your Bonsai tree
 First of all, we start to clean out the tree. Carefully study your tree, and decide on what shape you intend to create in it. While it is easy to prune branches, it can be very hard to make them grow back. Once you have decided which branches should be removed, prune these, slowly working your way up the tree. Start with freeing up the trunk a bit.
 When pruning larger branches, you need a concave cutter. This cutter leaves behind a hollow wound, which heals much better. After pruning the larger branches, focus on smaller branches, until you are satisfied with the result.
 Cleaning up the tree and removing all the dead branches.
 
- 
+  <!--adsense-->
+
 ### Step 2: Wiring your Bonsai
 Next, we wire the branches, starting with the larger ones. Carefully apply wire around the branches at an angle of about 45 degrees. Try to wire two branches of the same thickness with one wire. As a rule of thumb, apply wire about 1/3 the thickness of the branch.
 When you’re done wiring the larger branches, work your way towards the smaller ones. Finish wiring the entire tree, before you start positioning and bending the branches.
 
 Wiring your Bonsai tree.
 The 45 degree angle while wiring.
- 
+  <!--adsense-->
+
 ### Step 3: Placing your tree in a Bonsai pot
 Now that we have pruned and wired the tree, it is time to repot it.
 To get started, we prepare the Bonsai pot. Place two wires that can be used later on to attach the tree firmly to the pot. We also cover the watering holes by attaching a plastic mesh.
@@ -36,7 +40,30 @@ Placing the tree in the pot and attaching it firmly with wire.
 The repotted Bonsai tree after thorough watering.
 The starter kit package.
 
+ <!--adsense-->
+
 The result.
 That’s it!
 Now we have a Bonsai tree; pruned, wired and repotted. So what’s next? Remove the wire after a few months, otherwise the branches would get damaged as they grow thicker. Place the tree in the shade the first month after repotting.
 In this article we used a Cypress (Chamaecyparis Pisifera) tree, but starterkits can contain any kind of tree species. Make sure you know what tree species you have, and look up its specific care guidelines in our Bonsai tree species section.
+
+
+1. [All You Need To Know About Bonsai 'How bonsai works'](https://srilankasl.com/posts/bonsai_care/)
+2. [How to look after my bonsai](https://srilankasl.com/posts/how_to_carering_your_bonsai/)
+3. [Amazing Bonsai Masterpieces](https://srilankasl.com/posts/masterpieses1/)
+4. [Important this to do become bonsai master](https://srilankasl.com/posts/masterpieses2/)
+5. [Amazing Bonsai Images](https://srilankasl.com/posts/bonsaipost1/)
+6. [How to make a bonsai design easily](https://srilankasl.com/posts/lerningguide1/)
+7. [BONSAI](https://srilankasl.com/posts/introduction/)
+8. [Principles of Bonsai](https://srilankasl.com/posts/principlesofbonsai/)
+9. [Bonsai Groth PRINCIPLES](https://srilankasl.com/posts/bonsaigrouthprincipals/)
+10. [Bonsai Types](https://srilankasl.com/posts/bonsaitypes/)
+11. [Bonsai Watering](https://srilankasl.com/posts/bonsaiwatering/)
+12. [Creating A Bonsai For The First Time.](https://srilankasl.com/posts/biginnerbasics/)
+13. [How to grow your own Bonsai](https://srilankasl.com/posts/bonsaigrowing/)
+14. [Trunk and Nebari Rules](https://srilankasl.com/posts/rulesofbonsai/)
+15. [Rules Of Branches](https://srilankasl.com/posts/rulesofbranches/)
+16. [Pots And Culture Rules](https://srilankasl.com/posts/potsandculturerules/)
+17. [BONSAI SOIL](https://srilankasl.com/posts/bonsaisoil/)
+
+18. [WHAT MAKES GOOD BONSAI](https://srilankasl.com/posts/whatmakesgoodbonsai/)

@@ -4,11 +4,11 @@ title:  "Pots And Culture Rules"
 img: image-3.png
 categories: ["one", "two"]
 tags: ["tag_c"]
-date: 2016-05-09
+date: 2020-05-09
 ---
 
 
-##Pots
+## Pots
 
 1. The tree should be placed behind the mid line of the pot, and to the left or right of
 the center line.
@@ -20,6 +20,8 @@ width should be two thirds the spread of the tree.
 5. Style of the pot should match the tree. Uprights without much movement should
 be in rectangular pots, informal uprights with a lot of trunk movement should be
 in oval or round pots. Massive trees should be in deep rectangular pots.
+
+<!--adsense-->
 
 ##Culture
 
@@ -33,3 +35,5 @@ under the bench wet, not by misting.
 7. Keep temperate climate plants outside. Only tropical and subtropical plants (for
 the most part) are suitable for indoor bonsai. Temperate climate plants must be
 given an appropriate period of cold dormancy if they are to be kept indoors.
+
+<!--adsense-->
