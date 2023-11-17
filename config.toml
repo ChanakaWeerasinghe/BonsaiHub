@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "JapanBonsai"
 theme = "hugo-cards"
 themesDir = "../.."
-paginate = 6
+paginate = 9
 
 
 [params]
