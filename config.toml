@@ -1,0 +1,43 @@
+baseurl = "https://japanbonsaigarden.com/"
+languageCode = "en-us"
+title = "JapanBonsai"
+theme = "hugo-cards"
+themesDir = "../.."
+paginate = 6
+
+
+[params]
+builtBy = "JapanBonsai"
+defaultImage = "gopher.jpg"
+description = "Explore the beauty of bonsai culture in Japan with JapanBonsai. Discover expert tips, stunning bonsai collections, and join our community."
+
+
+facebook = "https://www.facebook.com/japanbonsaicommunity"
+quora = ""
+twitter = "https://twitter.com/chanakaweerasi2"
+github = "https://github.com/ChanakaWeerasinghe"
+email = ""
+
+fbLikeBox = ""
+fbAppId = "101630761674046"
+fbPageUrl = ""
+fbPageTitle = ""
+
+analytics = "G-ZL0MP0ZBQ5"
+adsensePublisher = "ca-pub-4554843855357609"
+googleAdsense = "ca-pub-4554843855357609"
+disqus = ""
+
+client = "ca-pub-4554843855357609"
+inArticleSlot = "12345"
+
+custom_css = ["css/custom.css"]
+
+[params.copyright]
+name = "JapanBonsai"
+link = "https://www.facebook.com/japanbonsaicommunity"
+
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
