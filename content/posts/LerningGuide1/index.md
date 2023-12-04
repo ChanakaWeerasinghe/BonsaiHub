@@ -31,7 +31,7 @@ In this method you have to go into a nursery and bring back a well grown but not
 
 ### Method No. 3
 The system is called Yamadori. All you have to do in this method is to select a plant that has grown well in the ground and cut it down as we want and go for a design. This also makes it very easy and fast to make a plant look the way we want it. You can get an idea of ​​this by selecting a plant that is well grown in the ground and cutting it into small pieces as needed so that the large mountain plants that have been cut can be made to grow as time goes on and you can even see about it and a picture is given below. This method is also easy. It is also possible to make a plant beautifully. The above method is also somewhat easy but you have to have some understanding while using these things such as pruning the branches and separating the shape of the branches etc. The reason we do this is by listening to the grass growing well in the ground. You have no idea how many embellishments to make for a design, so no one came up with an idea, you can get an idea from the photos below.
- <!--adsense-->
+
 [sourse](https://lexicon.typepad.com/bonsai_dilettante/2013/09/free-urban-yamadori-boxwoods.html)
 
 ![yamadori](https://lexicon.typepad.com/.a/6a00d8341c9d1e53ef019aff615bfc970b-800wi)

@@ -6,7 +6,7 @@ tags: ["tag_a", "tag_b"]
 date: 2021-07-28
 ---
 ![1](baner.png)
- <!--adsense-->
+
 
 When it comes to protecting a bonsai tree, watering, spraying, fertilizing the tree, and protecting our bonsai plant from seasonal changes, protection are just some of the things to keep in mind.
 # WATERING
@@ -41,7 +41,7 @@ trees that are not in training, to balance their growth instead of stimulating i
 It is very important not to overfeed your tree.
 
  ![1](3.png)
- <!--adsense-->
+
 
 
 #SEASONAL CARE

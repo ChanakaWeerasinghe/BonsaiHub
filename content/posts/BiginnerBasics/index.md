@@ -12,7 +12,7 @@ done some research and has a basic understanding of the
 fundamental shaping concepts used in the art of bonsai
 such as:
 
- <!--adsense-->
+
 
 1. Triangulation and asymmetrical composition.
 2. Primary, secondary and tertiary branch identification and placement.
@@ -40,7 +40,7 @@ added advantage of being a bit “forgiving” when newcomers make mistakes.
 Since you are learning, we assume you will be making a few mistakes along the way. Its good to have plant
 material which is willing to work with you. Junipers (par
 
- <!--adsense-->
+
 
 
 ### Step One: Clean Up
@@ -51,7 +51,7 @@ The first task is, therefore, to clean up the tree. Start by
 removing the bamboo stake and then begin cleaning out
 all dead needles and other debris from the interior of the
 tree.
- <!--adsense-->
+
 
 One of the things which make junipers good material for bonsai is they readily develop new growth on old
 wood. This is a good characteristic for any bonsai subject
@@ -69,7 +69,7 @@ branches emerge around it. Next, dig gently at the base of
 the trunk and remove soil until you find the point at which
 the roots begin to flare outward. This will be the base of
 your new bonsai.
- <!--adsense-->
+
 
 ### Step Two: Wiring & Shaping
 Once you can clearly see the trunk line and branches
@@ -80,7 +80,7 @@ applied to each type of plant material on which you work in
 the future.
 Find a front for the tree based on the trunk movement and nebari. Select its first, second and back branches. Determine an apex and the placement of all secondary branching. Remove all others. In a word... Cut off
 anything that does not look like a bonsai. 
- <!--adsense-->
+
 
 We know this is easy to say and not so easy to do,
 but proceed slowly and carefully. Remember that it is better to leave a branch on the tree, wire it and try to work it
@@ -106,7 +106,7 @@ with the second half of the wire make at least one turn
 around the trunk (more of necessary) following the path
 of the main line trunk wire until you can go out the second
 branch .
- <!--adsense-->
+
 
 ### Step Three: Detail Pruning &
 Shaping.
@@ -127,7 +127,7 @@ will need to keep these foliage pads pinched back and well
 formed. They will become more dense with green growth
 and add greatly to it’s appearance of age and maturity. 
 
- <!--adsense-->
+
 
 ### Step Four: Preparation For Potting
 The process of transplanting a bonsai from its growing container into a finished bonsai container can be compared to selecting the right frame for a painting. A wise

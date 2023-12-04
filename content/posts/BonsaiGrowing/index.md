@@ -9,14 +9,14 @@ Buying a Bonsai tree in a shop is nice, but wouldn’t it be much better to do i
 A Bonsai starterkit usually contains a young plant (called a pre-Bonsai or
 A Bonsai starterkit usually contains a young plant (called a pre-Bonsai or a nursery stock), a Bonsai pot, wire and soil. From this young plant you can create a Bonsai tree in three steps; pruning, wiring and repotting. So, let’s have a look at the three steps to create a Bonsai tree. You can also check the Bonsai Empire channel on YouTube for movies on these steps.
 
- <!--adsense-->
+
 
 ### Step 1: Pruning your Bonsai tree
 First of all, we start to clean out the tree. Carefully study your tree, and decide on what shape you intend to create in it. While it is easy to prune branches, it can be very hard to make them grow back. Once you have decided which branches should be removed, prune these, slowly working your way up the tree. Start with freeing up the trunk a bit.
 When pruning larger branches, you need a concave cutter. This cutter leaves behind a hollow wound, which heals much better. After pruning the larger branches, focus on smaller branches, until you are satisfied with the result.
 Cleaning up the tree and removing all the dead branches.
 
-  <!--adsense-->
+ 
 
 ### Step 2: Wiring your Bonsai
 Next, we wire the branches, starting with the larger ones. Carefully apply wire around the branches at an angle of about 45 degrees. Try to wire two branches of the same thickness with one wire. As a rule of thumb, apply wire about 1/3 the thickness of the branch.
@@ -24,7 +24,7 @@ When you’re done wiring the larger branches, work your way towards the smaller
 
 Wiring your Bonsai tree.
 The 45 degree angle while wiring.
-  <!--adsense-->
+ 
 
 ### Step 3: Placing your tree in a Bonsai pot
 Now that we have pruned and wired the tree, it is time to repot it.
@@ -40,7 +40,7 @@ Placing the tree in the pot and attaching it firmly with wire.
 The repotted Bonsai tree after thorough watering.
 The starter kit package.
 
- <!--adsense-->
+
 
 The result.
 That’s it!

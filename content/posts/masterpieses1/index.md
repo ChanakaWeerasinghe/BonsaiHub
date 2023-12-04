@@ -13,11 +13,11 @@ The Japan Bonsai of bonsai Art’s collection contains over 1000+ works of art f
 ![1](masterpieses1.png)
 
 
- <!--adsense-->
+
 
  ![1](2.jpeg)
 
- <!--adsense-->
+
  ![1](3.jpeg)
 <!--adsense-->
 ![1](4.jpeg)

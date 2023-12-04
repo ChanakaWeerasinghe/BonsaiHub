@@ -11,7 +11,7 @@ time. It makes the assumption that the reader has already
 done some research and has a basic understanding of the
 fundamental shaping concepts used in the art of bonsai
 such as:
- <!--adsense-->
+
 
 1. Triangulation and asymmetrical composition.
 2. Primary, secondary and tertiary branch identification and placement.
@@ -37,7 +37,7 @@ added advantage of being a bit “forgiving” when newcomers make mistakes.
 Since you are learning, we assume you will be making a few mistakes along the way. Its good to have plant
 material which is willing to work with you. Junipers (par
 
- <!--adsense-->
+
 
 
 ### Step One: Clean Up
@@ -65,7 +65,7 @@ the trunk and remove soil until you find the point at which
 the roots begin to flare outward. This will be the base of
 your new bonsai.
 
- <!--adsense-->
+
 
 ### Step Two: Wiring & Shaping
 Once you can clearly see the trunk line and branches
@@ -102,7 +102,7 @@ around the trunk (more of necessary) following the path
 of the main line trunk wire until you can go out the second
 branch .
 
- <!--adsense-->
+
 
 ### Step Three: Detail Pruning &
 Shaping.
@@ -123,7 +123,7 @@ will need to keep these foliage pads pinched back and well
 formed. They will become more dense with green growth
 and add greatly to it’s appearance of age and maturity. 
 
- <!--adsense-->
+
 
 
 ### Step Four: Preparation For Potting
